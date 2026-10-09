@@ -3,7 +3,6 @@
 [![Target FPGA](https://img.shields.io/badge/FPGA-AMD%20Spartan--7%20XC7S50-blue.svg)](https://www.realdigital.org/hardware/boolean)
 [![Core](https://img.shields.io/badge/Core-PicoRV32%20(RV32I)-brightgreen.svg)](https://github.com/YosysHQ/picorv32)
 [![EDA Tool](https://img.shields.io/badge/EDA-AMD%20Vivado%202025.2-orange.svg)]()
-[![Verification](https://img.shields.io/badge/Verification-100%25%20Bit--Exact%20Match-success.svg)]()
 
 A complete hardware/software co-design implementing real-time **Sobel Edge Detection** on an **AMD Xilinx Spartan-7 FPGA (RealDigital Boolean Board)**. 
 
