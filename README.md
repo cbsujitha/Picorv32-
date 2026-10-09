@@ -41,7 +41,14 @@ The architecture integrates a 32-bit **PicoRV32 RISC-V CPU** that manages PC-to-
 ## output
 <img width="260" height="312" alt="image" src="https://github.com/user-attachments/assets/366c9dc6-e36a-4c56-97ae-138efc9f6d26" />
 
-## applications
+## Applications of the Sobel Operator
+
+* **Edge & Contour Detection:** Extracts object boundaries, shapes, and silhouettes for image segmentation.
+* **Autonomous Driving (ADAS):** Detects lane markings, road boundaries, and obstacles in real-time camera feeds.
+* **Medical Imaging:** Delineates organ boundaries, tumors, and blood vessels in X-ray, CT, and MRI scans.
+* **Industrial Inspection:** Identifies surface defects, cracks, and flaws in manufactured parts and PCBs.
+* **Document Processing & OCR:** Enhances text outlines, license plates, and barcode/QR code edges.
+* **Pipeline Preprocessing:** Serves as the core gradient-calculation step in algorithms like the Canny edge detector.
 
 
 
