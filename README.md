@@ -35,3 +35,13 @@ The architecture integrates a 32-bit **PicoRV32 RISC-V CPU** that manages PC-to-
 ## 🏗️ System Architecture
 <img width="337" height="557" alt="image (2)" src="https://github.com/user-attachments/assets/16c46e3e-9932-4c85-8529-3ae04aefa428" />
 
+## input
+<img width="352" height="267" alt="image" src="https://github.com/user-attachments/assets/7344dc0d-1af5-46bb-9e11-0afb81f940b5" />
+
+## output
+<img width="260" height="312" alt="image" src="https://github.com/user-attachments/assets/366c9dc6-e36a-4c56-97ae-138efc9f6d26" />
+
+## applications
+
+
+
